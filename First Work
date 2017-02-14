@@ -1,0 +1,62 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  h1{
+    font-family: Times-New-Roman;
+    font-size: 75px;
+    font-color: black
+  }
+  h2 {
+    font-family: Lobster, Monospace;
+    font-size: 48px;
+    font-color: black;
+  }
+  h3 {
+    font-family: Times-New-Roman;
+    font-size: 40px
+  }
+  li {
+    font-size: 34px
+  }
+  p {
+    font-family: Times-New-Roman;
+    font-size: 22px
+  }
+  .thick-black-border {
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 4px
+  }
+  .large-image {
+    width: 1488px;
+  }
+  .silver-background {
+    background-color: silver;
+    width: 1488px
+  }
+  
+</style>
+ <div>
+   <body>
+       <h1 class="text-center">National Hockey League</h1>
+         <h2 class="text-center">Celebrating 100 Years</h2>
+          </body>
+         </div>
+       </div>
+<img class="thick-black-border large-image " src="https://nhl.bamcontent.com/images/photos/284726306/1304x326/cut.jpg">
+
+<div class="silver-background text-center">
+  <h3 class="text-center"> A Brief History of the NHL</h3>
+    <ul>
+      <li>1917-1942: The Founding</li>
+        <p> The NHL was formed following the suspension of the National Hockey Association in 1917. The first 25 years saw many teams come and go, move from town to town, in attempt to keep the league going. It wasn't until Clarence Campbell took over as commissioner did the league stabilize, allowing it gain in popularity, and eventually expand.</p>
+      <li>1942-1967: The Original Six Era</li>
+      <p>Some of hockey's greatest rivalries were born in the Original Six Era. Montreal, Toronto, Boston, New York, Detroit, and Chicago played for the Stanley Cup on a yearly basis for 35 years before new teams were brought into the league. Many of the NHL's most famous players saw the ice during this time: Rocket Richard, Gordie Howe, Jaques Plante. The league also saw many new inovations which changed the way the game was played: goalie masks, curved sticks, and the slapshot.</p>
+      <li>1967-1992: Expansion Era</li>
+      <p> The NHL expanded for the first time in nearly 50 years, with 6 new teams joining the league in 1967. The expansion era would see the NHL go from the Original Six to 22 teams in 25 years. NHL teams would span the United States and Canada, bringing the NHL to the modern era. The player they call the Great One, Wayne Gretzky, saw the beginning of his career start towards the end of the expansion era. Gretzky would eventaully become the greatest player to ever skate in the NHL, registering 2,857 points in just under 1,500 regular season games played. To put this number into perspective, Jaromir Jagr who is currently second all-time in points, has 1,899 points in 1,683 regular season games, which is still 64 total points behind Gretzky's total number of assists (1,963).</p>
+      <li> 1992-Present: The Modern Era</li>
+      <p> The NHL continued to expand, pushing into new markets: Florida, Arizona, California, among others. This era has also brought about 3 separate lockouts, including the cancellation of the entire 2004-05 season. Even with the rapid expansion of the league to 30 teams, the NHL continues to grow its fanbase throughout North America and the world. Attracting players from the around the globe, globalized entertainment markets have carried the NHL into homes around the world, further cementing the NHL for many years to come. 
+        
+    
+  
